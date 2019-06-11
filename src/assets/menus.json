@@ -1,0 +1,34 @@
+[
+  {
+    "label": "Menu",
+    "submenu": [
+      {"label":"New something"},
+      {"label":"Settings"},
+      {"label":"Exit"}
+    ]
+  },
+  {
+    "label": "File",
+    "submenu": [
+      {"label":"Adjust Notification Value"},
+      {"label":"CoinMarketCap"},
+      {"label":"Exit"}
+    ]
+  },
+  {
+    "label": "Preferences",
+    "submenu": [
+      {"label":"Adjust Notification Value"},
+      {"label":"CoinMarketCap"},
+      {"label":"Exit"}
+    ]
+  },
+  {
+    "label": "About",
+    "submenu": [
+      {"label":"Adjust Notification Value"},
+      {"label":"CoinMarketCap"},
+      {"label":"Exit"}
+    ]
+  }
+]
